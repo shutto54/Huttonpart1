@@ -1,0 +1,14 @@
+---
+title: "9:00 Section"
+output: html_document
+---
+###Sarah Hutton
+###October 18, 2017
+Here is some arithmetic:
+
+```{r message=FALSE,warning=FALSE}
+x<-3
+y<-4
+x-sqrt(y)
+```
+
